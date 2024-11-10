@@ -1,0 +1,17 @@
+com/example/ContentManager/controller/AppController.class
+com/example/ContentManager/model/CharacterDTO.class
+com/example/ContentManager/entity/Character.class
+com/example/ContentManager/repository/CharacterRepository.class
+com/example/ContentManager/service/impl/CharacterServiceImpl.class
+com/example/ContentManager/service/impl/ArtistServiceImpl.class
+com/example/ContentManager/ContentManagerApplication.class
+com/example/ContentManager/repository/StoryRepository.class
+com/example/ContentManager/entity/Artist.class
+com/example/ContentManager/entity/Story.class
+com/example/ContentManager/service/ArtistService.class
+com/example/ContentManager/service/StoryService.class
+com/example/ContentManager/repository/ArtistRepository.class
+com/example/ContentManager/service/impl/StoryServiceImpl.class
+com/example/ContentManager/service/CharacterService.class
+com/example/ContentManager/model/StoryDTO.class
+com/example/ContentManager/model/ArtistDTO.class
